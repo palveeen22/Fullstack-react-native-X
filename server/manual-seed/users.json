@@ -1,0 +1,34 @@
+[
+  {
+    "_id": {
+      "$oid": "656a04ada9194e9ba4bf6a3d"
+    },
+    "username": "1",
+    "email": "1@gmail.com",
+    "password": "$2a$10$Kk8j7N5ZkEZRSLkZlaGPEeqHSQDiADvCgMpE8Zb0GOVo4bEmjgJf."
+  },
+  {
+    "_id": {
+      "$oid": "656a1cf99210b18ba29990e6"
+    },
+    "username": "amangly",
+    "email": "amangly@gmail.com",
+    "password": "$2a$10$5xgnYd54aj40sopXaSMWU.VC6Nk9hPYPYBJtAL/SC3FvrqZxpzZbm"
+  },
+  {
+    "_id": {
+      "$oid": "656b2b931c78cdf7a7648c24"
+    },
+    "username": "plepale",
+    "email": "pale@gmail.com",
+    "password": "$2a$10$mFmNr.j7NOqak8KZye6Xs.rGRT3o2VhTf30wlKgABCMc0VYVVinRq"
+  },
+  {
+    "_id": {
+      "$oid": "656b2bb21c78cdf7a7648c25"
+    },
+    "username": "firebase",
+    "email": "firebase@gmail.com",
+    "password": "$2a$10$mjSiK8Zvq4DpgSufwDRw/Ouch8y4RYmVDFm3M7peeuwGQhvD5O9T6"
+  }
+]
